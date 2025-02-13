@@ -66,7 +66,7 @@
 
 **Bachelor of Software Engineering (Co-op), Carleton University**  
 *(Sept 2020 – Apr 2025)*  
-- CGPA: 10.40/12.0 (A- high distinction)  
+- CGPA: 3.8/4 (High Distinction)  
 - Awards: Dean’s Honor List, Carleton University Faculty Scholarship  
 - Key Courses: Machine Learning, OOP, Algorithms & Data Structures, Databases, Real-time Concurrent Systems, Embedded Systems
 
@@ -108,7 +108,7 @@
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/adhambadawi/)
   
-- [Email](adhambadawi857@gmail.com) 
+- [Email](mailto:adhambadawi857@gmail.com)
 
 ---
 
