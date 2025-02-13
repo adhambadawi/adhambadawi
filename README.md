@@ -7,7 +7,8 @@
   - 🏆 Awards: Dean’s Honor List, Carleton University Faculty Scholarship  
 - 💡 Passionate about **Full-Stack Development**, **AI/ML**, and **Embedded Systems**.  
 - 🌱 Currently exploring advanced topics in **concurrency**, **IoT**, **machine learning**, and **cybersecurity**.  
-- 📫 How to reach me:  
+- 📫 How to reach me:
+  - [Email](mailto:adhambadawi857@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/adhambadawi/)
 
 ## 🛠️ Skills & Technologies
