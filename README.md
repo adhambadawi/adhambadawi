@@ -70,40 +70,13 @@
 - Awards: Dean’s Honor List, Carleton University Faculty Scholarship  
 - Key Courses: Machine Learning, OOP, Algorithms & Data Structures, Databases, Real-time Concurrent Systems, Embedded Systems
 
-## ⚙️ Applied Projects
 
-### AI-Powered Intrusion Detection System (Capstone)
-*(Aug 2024 – Apr 2025)*  
-- Developed an unsupervised ML model (Isolation Forest) on CICIDS2017 for anomaly detection.  
-- Integrated real-time network monitoring and prompt detection of anomalous activities.  
-- Conducted extensive testing & cross-validation, fine-tuning parameters for cyber threat detection.
-
-### Real-Time Elevator Simulation
-*(Feb 2024 – Apr 2024)*  
-- Designed a multi-threaded elevator control system in Java with concurrency controls.  
-- Implemented UDP/IP protocols for inter-process communication, simulating distributed systems.  
-
-### Mini Survey Monkey (Web-based Survey Application)
-*(Sept 2024 – Nov 2024)*  
-- Built a secure survey platform with Spring Boot, Spring MVC, & Spring Data JPA.  
-- Integrated Spring Security and Thymeleaf/JS validation for improved data integrity.  
-- Deployed to Azure App Service with a GitHub Actions CI/CD pipeline.
-
-### Social Media Website Development
-*(Jan 2024 – Apr 2024)*  
-- Developed a full-stack platform with PHP, JavaScript, HTML/CSS, and MySQL.  
-- Implemented secure user authentication and session management.  
-- Enhanced performance using prepared statements and dynamic content loading.
-
-### Operating Systems Simulator
-*(Sept 2024 – Dec 2024)*  
-- Simulated real-world OS functionalities: interrupt handling, scheduling, memory management.  
-- Modeled context switching, priority scheduling, and system calls like fork & exec.
-
+<!--
 ## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=adhambadawi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+-->
 
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/adhambadawi/)
