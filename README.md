@@ -4,23 +4,22 @@
 ## 👨‍💻 About Me
 - 🎓 Bachelor of Software Engineering (Co-op) at Carleton University (2020 – 2025)  
   - CGPA: 3.8/4 (High Distinction)  
-  - Awards: Dean’s Honor List, Carleton University Faculty Scholarship  
-- 💡 Passionate about **Embedded Systems**, **Full-Stack Development**, and **AI/ML**.  
-- 🏆 Awards & Achievements: Dean’s Honor List, Carleton University Faculty Scholarship.  
-- 🌱 Currently exploring advanced topics in **concurrency**, **IoT**, and **machine learning**.  
+  - 🏆 Awards: Dean’s Honor List, Carleton University Faculty Scholarship  
+- 💡 Passionate about **Full-Stack Development**, **AI/ML**, and **Embedded Systems**.  
+- 🌱 Currently exploring advanced topics in **concurrency**, **IoT**, **machine learning**, and **cybersecurity**.  
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/adhambadawi/)
 
 ## 🛠️ Skills & Technologies
 
 **Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat)
@@ -28,17 +27,17 @@
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
 **Frameworks & Tools**  
-![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
