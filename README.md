@@ -10,7 +10,7 @@
 - 🏆 Awards & Achievements: Dean’s Honor List, Carleton University Faculty Scholarship.  
 - 🌱 Currently exploring advanced topics in **concurrency**, **IoT**, and **machine learning**.  
 - 📫 How to reach me:  
-  - [LinkedIn](https://www.linkedin.com/in/adhambadawi/) <!-- Replace # with your LinkedIn URL -->  
+  - [LinkedIn](https://www.linkedin.com/in/adhambadawi/)
 
 ## 🛠️ Skills & Technologies
 
@@ -107,7 +107,7 @@
 </p>
 
 ## 🤝 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile]([#](https://www.linkedin.com/in/adhambadawi/))  
+- **LinkedIn**: [Your LinkedIn Profile]((https://www.linkedin.com/in/adhambadawi/))  
 - **Email**: [Your Email](adhambadawi857@gmail.com)  
 
 ---
