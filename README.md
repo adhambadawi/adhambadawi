@@ -53,7 +53,7 @@
 
 ## 🔭 Work Experience
 
-**Software Developer, ![Canada Revenue Agency](https://bacd.ca/wp-content/uploads/2020/08/67c779af-canada-revenue-agency.png)**
+**Software Developer, Canada Revenue Agency** ![CRA](https://bacd.ca/wp-content/uploads/2020/08/67c779af-canada-revenue-agency.png)
 *(Jan 2023 – Aug 2024)*  
 - Developed 1000+ Java test cases for new features, identifying critical bugs pre-deployment.  
 - Implemented automated regression testing, reducing post-deployment bugs by 25%.  
