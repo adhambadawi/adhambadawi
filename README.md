@@ -1,6 +1,5 @@
 # Hi there, I'm Adham Badawi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-**Profile Views**: ![Profile Views](https://komarev.com/ghpvc/?username=adhambadawi&color=blue)
 
 ## 👨‍💻 About Me
 - 🎓 Bachelor of Software Engineering (Co-op) at Carleton University (2020 – 2025)  
@@ -107,8 +106,9 @@
 </p>
 
 ## 🤝 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile]((https://www.linkedin.com/in/adhambadawi/))  
-- **Email**: [Your Email](adhambadawi857@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/adhambadawi/)
+  
+- [Email](adhambadawi857@gmail.com) 
 
 ---
 
